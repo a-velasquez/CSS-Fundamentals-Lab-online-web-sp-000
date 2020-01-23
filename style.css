@@ -19,7 +19,7 @@ nav, figcaption {
 
 nav a {
   padding:10;
-  background-color: lightgrey;
+  background-color: rgba(123, 167, 179, 0.5);
   margin: 0 auto;
 }
 
