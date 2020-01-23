@@ -20,6 +20,7 @@ nav, figcaption {
 nav a {
   padding:10;
   background-color: orange;
+  margin: 0 auto;
 }
 
 #featured-property p {
