@@ -27,7 +27,6 @@ nav a {
   width: 800px;
   text-align: center;
   margin: 0 auto;
-  padding:10;
 }
 
 #details div {
@@ -35,4 +34,5 @@ nav a {
   width: 25%;
   text-align: center;
   background-color: orange;
+  padding:10;
 }
